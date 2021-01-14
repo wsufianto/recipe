@@ -1,4 +1,9 @@
 # recipe
 # add text
 
-# Delicious recipe by AAron
+
+## contributors
+
+- aaron
+- will
+
